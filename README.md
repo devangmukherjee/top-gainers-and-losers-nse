@@ -10,7 +10,7 @@ The csv file will contain the following information
 -Stock name, open price, high price, low price, previous price, volume, ltp
 
 
-Incase you need only the stock's name for your code it is available as a list named # stock_list.
+Incase you need only the stock's name for your code it is available as a list named stock_list.
 You need to comment the append to csv lines to just receive the list a=without creating any csv file, or you can import the list to your desired location.
 
 There many fields that can be obtained from nsetools library for further information please refer the dicumentation:
